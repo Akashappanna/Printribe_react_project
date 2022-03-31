@@ -1,0 +1,40 @@
+/* .ti {
+    width:12%;
+	padding-top:10px;
+	float:left;
+}
+
+.fi {
+	width:88%;
+	margin-left:20%;
+	padding:25px 0px;
+}
+.fi>img{
+	width:80%;
+} */
+
+.ti img {
+  width: 100%;
+}
+
+.fi img {
+  width: 100%;
+}
+
+.ai {
+  align-items: center;
+  justify-content: center;
+}
+
+.ti img:hover {
+  border: 2px solid black;
+}
+
+.sample-canvas {
+  position: absolute;
+  top: 0;
+}
+
+.prex {
+  background-color: rgb(199, 108, 108);
+}
